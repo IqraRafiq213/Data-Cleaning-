@@ -1,25 +1,5 @@
 	--Script was written to clean the GTA data
-Un
-	
-	
-	
-	Ô = O
-	Ó = O
-	É = E
-	Ê = E
-	Ã = A
-	Á = A
-	Ç = C
-	Í = I
-	Ú = U
-	Ç = S
-	Õ = O
-	
-	
-	
-	
 
-	
 	
 CREATE EXTENSION unaccent;
 
